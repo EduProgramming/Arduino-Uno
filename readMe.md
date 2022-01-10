@@ -1,5 +1,11 @@
 # 아두이노 대포가습기
 
+## DOCS
+
+### 확장형 교재 PDF
+
+[Extension_TextBook]](./docs/textbook_extension.pdf)
+
 ## Arduino Source
 
 ### 기본 완성 소스
