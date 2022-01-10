@@ -4,7 +4,7 @@
 
 ### 확장형 교재 PDF
 
-[Extension_TextBook]](./docs/textbook_extension.pdf)
+[Extension_TextBook](./docs/textbook_extension.pdf)
 
 ## Arduino Source
 
